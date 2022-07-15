@@ -282,8 +282,8 @@
 # print('Josh') # Josh
 
 '''Print 18'''
-# print("Niharika")  # Niharika
-# print("Pravalika") # Pravalika
+# print("Niharika")  
+# print("Pravalika") 
 # b='hii'
 # try:
 #     a=5
@@ -291,8 +291,8 @@
 #     print(i)  # IndentationError
 # except IndentationError:
 #     print('Tab not given to for loop')
-# print('Program') # Program
-# print('Josh') # Josh
+# print('Program') 
+# print('Josh') 
 
 '''Print 19'''
 # print("Niharika")  # Niharika
